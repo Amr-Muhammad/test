@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test2
+=======
+changes in test
+>>>>>>> 88cf631f6da04536bda1ae554f2a9a34e5a55b83
